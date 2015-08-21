@@ -1,0 +1,22 @@
+{
+  "name": "gulp-xmas",
+  "version": "0.0.1",
+  "description": "npm xmas!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "gulpplugin",
+    "xmas"
+  ],
+  "author": "Masayuki Ishikawa",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0",
+    "which": "^1.1.1"
+  },
+  "devDependencies": {}
+}
